@@ -94,7 +94,6 @@ set termencoding=utf-8
 set nobackup
 set nowritebackup
 set noswapfile
-
 set ignorecase " Ignore case when searching
 set smartcase  " When searching try to be smart about cases
 set nohlsearch " Don't highlight search term
